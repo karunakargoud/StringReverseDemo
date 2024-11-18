@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\bin\Debug\StringReverseDemo.exe.config
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\bin\Debug\StringReverseDemo.exe
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\bin\Debug\StringReverseDemo.pdb
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\obj\Debug\StringReverseDemo.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\obj\Debug\StringReverseDemo.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\obj\Debug\StringReverseDemo.exe
+C:\Users\karun\source\repos\StringReverseDemo\StringReverseDemo\obj\Debug\StringReverseDemo.pdb
